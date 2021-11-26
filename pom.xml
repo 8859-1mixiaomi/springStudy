@@ -14,5 +14,6 @@
         <module>spring-testIOC</module>
         <module>spring-auto</module>
         <module>spring-proxy</module>
+        <module>spring-AOP</module>
     </modules>
 </project>

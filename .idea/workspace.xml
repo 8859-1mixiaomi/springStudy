@@ -2,131 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0f1f40b-8e7f-4b3b-957e-866cd075c1c6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/domian/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/domian/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/domian/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/domian/UserInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/spring-auto-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/test-classes/userTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/dao/impl/UserDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/dao/impl/UserMysqlImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/dao/impl/UserOracleImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/pojo/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/classes/service/impl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/target/test-classes/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/dao/impl/UserDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/dao/impl/UserDaoMysqlImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/dao/impl/UserDaoOracleImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/pojo/Hello.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/pojo/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/pojo/UserT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/service/impl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/test-classes/ExerciseSpring.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/Controller/StudentController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/Domain/Address.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/Domain/Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/Domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/test-classes/StudentTest01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/artifacts/spring_testIOC_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/dictionaries/mixia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/libraries/jdk1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/smartfox_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/spring-auto.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/UserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/resources/config/user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/resources/config/userAnnotation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/main/resources/config/userByname.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/src/test/java/userTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/config/user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/config/userAnnotation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/classes/config/userByname.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/surefire-reports/TEST-userTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-auto/target/surefire-reports/userTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-proxy/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-proxy/spring-proxy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/spring-test01.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Dao/impl/UserDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Dao/impl/UserMysqlImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Dao/impl/UserOracleImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/Service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/main/java/pojo/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test01/src/test/java/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/spring-test02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/UserDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/UserDaoMysqlImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/UserDaoOracleImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/pojo/Hello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/pojo/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/pojo/UserT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/service/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/resources/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/main/resources/userBeans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/src/test/java/ExerciseSpring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-test02/target/classes/userBeans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/spring-testIOC.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Controller/StudentController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentList.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentRef.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/userC.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/src/test/java/StudentTest01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/config/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/config/studentList.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/config/studentRef.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/config/user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/target/classes/config/userC.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-test/spring-testIOC/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-test/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../spring-test/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-test/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../spring-test/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-test/.idea/modules.xml" afterPath="$PROJECT_DIR$/../spring-test/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring-test/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-test/pom.xml" afterPath="$PROJECT_DIR$/../spring-test/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../spring-test/out/" />
     <ignored path="$PROJECT_DIR$/../spring-test/target/" />
@@ -135,6 +15,7 @@
     <ignored path="$PROJECT_DIR$/../spring-test/spring-testIOC/target/" />
     <ignored path="$PROJECT_DIR$/../spring-test/spring-auto/target/" />
     <ignored path="$PROJECT_DIR$/../spring-test/spring-proxy/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-test/spring-AOP/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,21 +103,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="187">
-      <file leaf-file-name="beans.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/resources/beans.xml">
+      <file leaf-file-name="AfterLog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AfterLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnotationPointcut.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AnnotationPointcut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeforeLog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/BeforeLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiyPointcut.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/DiyPointcut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserAnnotationController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserAnnotationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserAnnotationPointcut.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserAnnotationPointcut.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserBeans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserBeans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -245,98 +199,67 @@
         </entry>
       </file>
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/dao/UserDao.java">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="132">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/dao/impl/UserDaoImpl.java">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/impl/UserDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDiyPointcut.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserDiyPointcut.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="47" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDiyPointcutController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserDiyPointcutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserProxyController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/controller/UserProxyController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserProxyInvokerController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/controller/UserProxyInvokerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/UserService.java">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/impl/UserServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="99">
+              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
                 <element signature="method#UserServiceImpl#1;class#UserServiceImpl#0" expanded="false" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/UserServiceProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceProxyInvoke.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/UserServiceProxyInvoke.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -347,8 +270,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -376,24 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/impl/UserDaoMysqlImpl.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/service/UserService.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/dao/impl/UserDaoOracleImpl.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/pojo/User.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/java/pojo/UserT.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/resources/beans.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/test/java/ExerciseSpring.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-test02/src/main/resources/userBeans.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Address.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/beans.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentRef.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentLsit.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Student.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/user.xml" />
         <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/test/java/StudentTest01.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/User.java" />
@@ -409,7 +314,6 @@
         <option value="$PROJECT_DIR$/../spring-test/spring-auto/src/main/resources/config/userAnnotation.xml" />
         <option value="$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/UserInfo.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-test/.gitignore" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/pojo/Host.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/pojo/Rent.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/pojo/Proxy.java" />
@@ -427,11 +331,37 @@
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/controller/UserProxyController.java" />
         <option value="$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/service/UserServiceProxy.java" />
+        <option value="$PROJECT_DIR$/../spring-test/.gitignore" />
+        <option value="$PROJECT_DIR$/../spring-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/beans.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/pojo/userPojo.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserBeans.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/BeforeLog.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AfterLog.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/DiyPointcut.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserDiyPointcutController.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserDiyPointcut.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AnnotationPointcut.java" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserAnnotationPointcut.xml" />
+        <option value="$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserAnnotationController.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -497,25 +427,25 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -523,7 +453,7 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -532,7 +462,7 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -541,7 +471,7 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -551,16 +481,7 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -569,7 +490,7 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -579,49 +500,58 @@
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-test" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-test" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-AOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
               <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -636,12 +566,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-test/spring-test02/pom.xml" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-test/spring-testIOC" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.26138434" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/spring-test/spring-testIOC/src/main/java/Domain/Student.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/../spring-test/.gitignore" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -660,15 +591,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserProxyInvokerController">
-    <configuration name="ClientController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.UserAnnotationController">
+    <configuration name="UserAnnotationController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="controller.ClientController" />
+      <option name="MAIN_CLASS_NAME" value="controller.UserAnnotationController" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../spring-test" />
@@ -677,29 +608,10 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-proxy" />
+      <module name="spring-AOP" />
       <envs />
     </configuration>
-    <configuration name="ClientProxyController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="controller.ClientProxyController" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../spring-test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-proxy" />
-      <envs />
-    </configuration>
-    <configuration name="UserController (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="controller.*" />
@@ -715,7 +627,26 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-proxy" />
+      <module name="spring-AOP" />
+      <envs />
+    </configuration>
+    <configuration name="UserDiyPointcutController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="controller.UserDiyPointcutController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../spring-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-AOP" />
       <envs />
     </configuration>
     <configuration name="UserProxyController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -838,19 +769,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ClientController" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UserController (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UserProxyController" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClientProxyController" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UserProxyInvokerController" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UserProxyController" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UserProxyInvokerController" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UserController" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UserDiyPointcutController" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UserAnnotationController" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UserProxyInvokerController" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UserProxyController" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UserController (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClientProxyController" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ClientController" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UserAnnotationController" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UserDiyPointcutController" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UserController" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UserProxyInvokerController" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UserProxyController" />
       </list>
     </recent_temporary>
   </component>
@@ -876,7 +807,7 @@
       <workItem from="1637757374702" duration="7195000" />
       <workItem from="1637841311024" duration="4700000" />
       <workItem from="1637846075746" duration="6481000" />
-      <workItem from="1637904752570" duration="11462000" />
+      <workItem from="1637904752570" duration="19662000" />
     </task>
     <servers />
   </component>
@@ -913,7 +844,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41377000" />
+    <option name="totallyTimeSpent" value="49577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -926,6 +857,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -944,9 +876,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32775453" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36959553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36959553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28451884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58716875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25523013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29598445" sideWeight="0.6030405" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59274757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -998,168 +930,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-test02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-test01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Controller/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentList.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="118" column="39" lean-forward="true" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/studentRef.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/resources/config/userC.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-test.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/test/java/StudentTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="37" column="44" lean-forward="false" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-testIOC/src/main/java/Domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#264#265#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-auto/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/domian/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#59#60#0" expanded="false" />
-            <element signature="e#102#103#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-auto/spring-auto.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-auto/src/main/java/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../spring-test/spring-auto/src/main/resources/config/user.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -1235,14 +1005,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1373,20 +1135,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/resources/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/java/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1396,7 +1150,7 @@
         <state relative-caret-position="82">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1406,8 +1160,8 @@
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="false" />
+            <element signature="e#153#154#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1457,6 +1211,217 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-proxy/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/pojo/userPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AfterLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#UserServiceImpl#1;class#UserServiceImpl#0" expanded="false" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserBeans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/BeforeLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/DiyPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/util/AnnotationPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserDiyPointcut.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/resources/config/UserAnnotationPointcut.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserDiyPointcutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-test/spring-AOP/src/main/java/controller/UserAnnotationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1476,11 +1441,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Spring (spring-testIOC)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.26138434" />
               </list>
             </option>
           </splitter-proportions>
@@ -1511,11 +1476,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-test</last-edited>
+          <last-edited>spring-AOP</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.26138434" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1536,11 +1501,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jdk1.8</last-edited>
+          <last-edited>Maven: org.apache.logging.log4j:log4j:2.11.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.26138434" />
               </list>
             </option>
           </splitter-proportions>
