@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="cat"  class="domian.Cat"/>
+    <bean id="dog"  class="domian.Dog"/>
+    <bean id="dog2"  class="domian.Dog"/>
+
+
+    <bean id="user" class="domian.User" autowire="byType">
+        <property  name="cat" ref="cat"/>
+        <property  name="dog"  ref="dog"/>
+        <property name="str"  value="邢老师加费"/>
+    </bean>
+
+
+
+</beans>
