@@ -1,9 +1,8 @@
 package service.impl;
 
 
-import dao.UserDao;
-import dao.impl.UserDaoImpl;
-import org.springframework.stereotype.Service;
+import mapper.UserDao;
+import mapper.impl.UserDaoImpl;
 import service.UserService;
 
 public class UserServiceImpl implements UserService {

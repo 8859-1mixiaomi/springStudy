@@ -8,13 +8,13 @@
     <bean id="hello" class="pojo.Hello">
         <property name="name" value="spring"/>
     </bean>
-    <bean id="MysqlImpl"  class="dao.UserDaoMysqlImpl"/>
-    <bean id="OracleImpl" class="dao.UserDaoOracleImpl"/>
+    <bean id="MysqlImpl"  class="mapper.UserDaoMysqlImpl"/>
+    <bean id="OracleImpl" class="mapper.UserDaoOracleImpl"/>
 
     <bean id="ServiceImpl" class="service.UserServiceImpl">
         <property name="userDao" ref="OracleImpl"/>
     </bean>
-    <bean id="user" class="pojo.User">
+    <bean id="user" class="pojo.UserInfo">
         <property name="name" value="小明"/>
     </bean>
 

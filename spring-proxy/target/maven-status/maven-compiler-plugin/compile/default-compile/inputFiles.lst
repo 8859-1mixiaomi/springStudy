@@ -1,0 +1,15 @@
+F:\spring-test\spring-proxy\src\main\java\pojo\Rent.java
+F:\spring-test\spring-proxy\src\main\java\dao\impl\UserDaoImpl.java
+F:\spring-test\spring-proxy\src\main\java\pojo\ProxyInvocationHandler.java
+F:\spring-test\spring-proxy\src\main\java\controller\ClientProxyController.java
+F:\spring-test\spring-proxy\src\main\java\controller\UserController.java
+F:\spring-test\spring-proxy\src\main\java\service\UserService.java
+F:\spring-test\spring-proxy\src\main\java\controller\UserProxyInvokerController.java
+F:\spring-test\spring-proxy\src\main\java\dao\UserDao.java
+F:\spring-test\spring-proxy\src\main\java\service\UserServiceProxy.java
+F:\spring-test\spring-proxy\src\main\java\service\UserServiceProxyInvoke.java
+F:\spring-test\spring-proxy\src\main\java\controller\ClientController.java
+F:\spring-test\spring-proxy\src\main\java\service\impl\UserServiceImpl.java
+F:\spring-test\spring-proxy\src\main\java\controller\UserProxyController.java
+F:\spring-test\spring-proxy\src\main\java\pojo\Proxy.java
+F:\spring-test\spring-proxy\src\main\java\pojo\Host.java

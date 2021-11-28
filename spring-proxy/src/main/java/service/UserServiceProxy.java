@@ -1,7 +1,7 @@
 package service;
 
-import dao.UserDao;
-import dao.impl.UserDaoImpl;
+import mapper.UserDao;
+import mapper.impl.UserDaoImpl;
 
 /**
  * 代理角色，在这里面增加日志的实现

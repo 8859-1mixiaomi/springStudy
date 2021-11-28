@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-AOP/spring-AOP.iml" filepath="$PROJECT_DIR$/../spring-test/spring-AOP/spring-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-Mybatis/spring-Mybatis.iml" filepath="$PROJECT_DIR$/../spring-test/spring-Mybatis/spring-Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-auto/spring-auto.iml" filepath="$PROJECT_DIR$/../spring-test/spring-auto/spring-auto.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-proxy/spring-proxy.iml" filepath="$PROJECT_DIR$/../spring-test/spring-proxy/spring-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-test.iml" filepath="$PROJECT_DIR$/../spring-test/spring-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-test01/spring-test01.iml" filepath="$PROJECT_DIR$/../spring-test/spring-test01/spring-test01.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-test02/spring-test02.iml" filepath="$PROJECT_DIR$/../spring-test/spring-test02/spring-test02.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-testIOC/spring-testIOC.iml" filepath="$PROJECT_DIR$/../spring-test/spring-testIOC/spring-testIOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-test/spring-transaction/spring-transaction.iml" filepath="$PROJECT_DIR$/../spring-test/spring-transaction/spring-transaction.iml" />
     </modules>
   </component>
 </project>

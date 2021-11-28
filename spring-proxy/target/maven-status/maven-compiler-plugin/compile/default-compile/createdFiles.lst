@@ -1,0 +1,15 @@
+service\impl\UserServiceImpl.class
+controller\UserProxyInvokerController.class
+controller\ClientProxyController.class
+pojo\Rent.class
+service\UserServiceProxyInvoke.class
+controller\UserController.class
+service\UserService.class
+service\UserServiceProxy.class
+dao\UserDao.class
+pojo\Proxy.class
+dao\impl\UserDaoImpl.class
+controller\UserProxyController.class
+pojo\ProxyInvocationHandler.class
+pojo\Host.class
+controller\ClientController.class

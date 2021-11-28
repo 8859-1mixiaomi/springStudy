@@ -8,20 +8,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-AOP" />
         <module name="spring-auto" />
+        <module name="spring-Mybatis" />
         <module name="spring-proxy" />
         <module name="spring-test01" />
         <module name="spring-test02" />
         <module name="spring-testIOC" />
+        <module name="spring-transaction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="spring-AOP" target="1.5" />
       <module name="spring-auto" target="1.5" />
+      <module name="spring-Mybatis" target="1.5" />
       <module name="spring-proxy" target="1.5" />
       <module name="spring-test" target="1.5" />
       <module name="spring-test01" target="1.6" />
       <module name="spring-test02" target="1.5" />
       <module name="spring-testIOC" target="1.5" />
+      <module name="spring-transaction" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

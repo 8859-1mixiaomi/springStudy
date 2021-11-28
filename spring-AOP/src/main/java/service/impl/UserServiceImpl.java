@@ -1,7 +1,7 @@
 package service.impl;
 
-import dao.UserDao;
-import dao.impl.UserDaoImpl;
+import mapper.UserDao;
+import mapper.impl.UserDaoImpl;
 import service.UserService;
 
 
